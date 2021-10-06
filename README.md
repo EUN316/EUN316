@@ -1,16 +1,13 @@
-### Hi there 👋
+### :sparkles: Lee Jung Eun
+---
 
-<!--
-**EUN316/EUN316** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### :wrench: Stack
 
-Here are some ideas to get you started:
+`Python` `Jupyter` `Keras` `Pytorch` `R` `SQL` `Tableau`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+#### :link: Links
+
+* Github: [github.com/EUN316](github.com/EUN316)
+* Velog: [velog.io/ljeun](velog.io/ljeun)
+* Instagram: [instagram.com/lj__eun](instagram.com/lj__eun)
