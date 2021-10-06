@@ -1,5 +1,6 @@
-### :sparkles: Lee Jung Eun
----
+<h2><p align='center'>:sparkles: Lee Jung Eun</p></h2>
+
+<br>
 
 #### :wrench: Stack
 
