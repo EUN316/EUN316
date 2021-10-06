@@ -1,9 +1,9 @@
 <h2><p align='center'>:sparkles: Lee Jung Eun</p></h2>
 
 
-#### :wrench: Stack
+#### :wrench: Stacks
 
-`Python` `Jupyter` `Keras` `Pytorch` `R` `SQL` `Tableau`
+`Python` `Jupyter` `Tensorflow` `Keras` `Pytorch` `RStudio` `SAS` `MySQL` `Tableau`
 
 
 #### :link: Links
