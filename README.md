@@ -3,7 +3,7 @@
 
 #### :wrench: Stacks
 
-`Python` `Jupyter` `Tensorflow` `Keras` `Pytorch` `RStudio` `SAS` `MySQL` `Tableau`
+`Python` `Jupyter` `Tensorflow` `Keras` `Pytorch` `MySQL` `RStudio` `SAS` `Tableau`
 
 
 #### :link: Links
